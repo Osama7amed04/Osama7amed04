@@ -27,20 +27,6 @@ I write clean, maintainable code and enjoy problem-solving. Fast learner, team p
 
 ---
 
-## 📊 GitHub Stats
-![Commits](https://img.shields.io/badge/Total_Commits-XXXX-green?style=flat-square)  
-![Repositories](https://img.shields.io/badge/Repositories-XXXX-blue?style=flat-square)  
-![Projects Contributed](https://img.shields.io/badge/Projects_Contributed-XXXX-orange?style=flat-square)  
-![GitHub Days](https://img.shields.io/badge/Days_on_GitHub-XXXX-red?style=flat-square)  
-
----
-
-## 🏆 Top Languages
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://python.org)
-
----
 
 ## 🔝 Projects
 **B-List — Shared List Mobile App**  
