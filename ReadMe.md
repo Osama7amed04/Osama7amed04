@@ -5,11 +5,15 @@ I write clean, maintainable code and enjoy problem-solving. Fast learner, team p
 
 ---
 
-## 🌐 Socials & Skills
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/o7k) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/osama.elkayyal/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Osama.Elkayyal@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://os-7-k.web.app)  
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/o7k)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/osama.elkayyal/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Osama.Elkayyal@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://os-7-k.web.app)  
+
+---
+
+## 💻 Tech Stack
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev) 
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://python.org)
@@ -23,11 +27,18 @@ I write clean, maintainable code and enjoy problem-solving. Fast learner, team p
 
 ---
 
-## 📊 GitHub Stats (Personalized)
-![Commits](https://img.shields.io/badge/Total_Commits-XXXX-green)  
-![Repositories](https://img.shields.io/badge/Repositories-XXXX-blue)  
-![Projects Contributed](https://img.shields.io/badge/Projects_Contributed-XXXX-orange)  
-![GitHub Days](https://img.shields.io/badge/Days_on_GitHub-XXXX-red)  
+## 📊 GitHub Stats
+![Commits](https://img.shields.io/badge/Total_Commits-XXXX-green?style=flat-square)  
+![Repositories](https://img.shields.io/badge/Repositories-XXXX-blue?style=flat-square)  
+![Projects Contributed](https://img.shields.io/badge/Projects_Contributed-XXXX-orange?style=flat-square)  
+![GitHub Days](https://img.shields.io/badge/Days_on_GitHub-XXXX-red?style=flat-square)  
+
+---
+
+## 🏆 Top Languages
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://python.org)
 
 ---
 
